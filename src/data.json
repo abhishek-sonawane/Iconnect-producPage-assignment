@@ -1,0 +1,65 @@
+{
+    "products": [
+      {
+        "id": "001",
+        "name": "Product A",
+        "price": 19.99,
+        "image": "https://example.com/product_a.jpg"
+      },
+      {
+        "id": "002",
+        "name": "Product B",
+        "price": 29.99,
+        "image": "https://example.com/product_b.jpg"
+      },
+      {
+        "id": "003",
+        "name": "Product C",
+        "price": 9.99,
+        "image": "https://example.com/product_c.jpg"
+      },
+      {
+        "id": "004",
+        "name": "Product D",
+        "price": 14.99,
+        "image": "https://example.com/product_d.jpg"
+      },
+      {
+        "id": "005",
+        "name": "Product E",
+        "price": 39.99,
+        "image": "https://example.com/product_e.jpg"
+      },
+      {
+        "id": "006",
+        "name": "Product F",
+        "price": 24.99,
+        "image": "https://example.com/product_f.jpg"
+      },
+      {
+        "id": "007",
+        "name": "Product G",
+        "price": 7.99,
+        "image": "https://example.com/product_g.jpg"
+      },
+      {
+        "id": "008",
+        "name": "Product H",
+        "price": 49.99,
+        "image": "https://example.com/product_h.jpg"
+      },
+      {
+        "id": "009",
+        "name": "Product I",
+        "price": 11.99,
+        "image": "https://example.com/product_i.jpg"
+      },
+      {
+        "id": "010",
+        "name": "Product J",
+        "price": 34.99,
+        "image": "https://example.com/product_j.jpg"
+      }
+    ]
+  }
+  
