@@ -2,63 +2,63 @@
     "products": [
       {
         "id": "001",
-        "name": "Product A",
+        "name": "Oversized t-shirt",
         "price": 19.99,
-        "image": "https://example.com/product_a.jpg"
+        "image": "https://plus.unsplash.com/premium_photo-1671656349262-1e1d3e09735c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80"
       },
       {
         "id": "002",
-        "name": "Product B",
+        "name": "Analog watch",
         "price": 29.99,
-        "image": "https://example.com/product_b.jpg"
+        "image": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=799&q=80"
       },
       {
         "id": "003",
-        "name": "Product C",
+        "name": "Fit-Bit",
         "price": 9.99,
-        "image": "https://example.com/product_c.jpg"
+        "image": "https://images.unsplash.com/photo-1503328427499-d92d1ac3d174?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80"
       },
       {
         "id": "004",
-        "name": "Product D",
+        "name": "White t-shirt",
         "price": 14.99,
-        "image": "https://example.com/product_d.jpg"
+        "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=580&q=80"
       },
       {
         "id": "005",
-        "name": "Product E",
+        "name": "White sneakers",
         "price": 39.99,
-        "image": "https://example.com/product_e.jpg"
+        "image": "https://images.unsplash.com/flagged/photo-1556637640-2c80d3201be8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
       },
       {
         "id": "006",
-        "name": "Product F",
+        "name": "HandBag",
         "price": 24.99,
-        "image": "https://example.com/product_f.jpg"
+        "image": "https://images.unsplash.com/photo-1511598800709-141ed22fcefc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=386&q=80"
       },
       {
         "id": "007",
-        "name": "Product G",
+        "name": "Hemp seed",
         "price": 7.99,
-        "image": "https://example.com/product_g.jpg"
+        "image": "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80"
       },
       {
         "id": "008",
-        "name": "Product H",
+        "name": "cleanser kit",
         "price": 49.99,
-        "image": "https://example.com/product_h.jpg"
+        "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=388&q=80"
       },
       {
         "id": "009",
-        "name": "Product I",
+        "name": "Perfume kit",
         "price": 11.99,
-        "image": "https://example.com/product_i.jpg"
+        "image": "https://images.unsplash.com/photo-1627384113743-6bd5a479fffd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
       },
       {
         "id": "010",
-        "name": "Product J",
+        "name": "jojoba oil",
         "price": 34.99,
-        "image": "https://example.com/product_j.jpg"
+        "image": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80"
       }
     ]
   }
