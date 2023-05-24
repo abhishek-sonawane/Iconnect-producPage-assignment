@@ -9,8 +9,10 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<ProductsListing />} />
-        <Route path="/:productID" element={<ProductPage />} />
+        <Route path="/product/:productID" element={<ProductPage />} />
         <Route path="/404" element={<Error />} />
+        <Route path="/*" element={<Error />} />
+
       </Routes>
     </BrowserRouter>
   );

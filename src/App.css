@@ -124,9 +124,15 @@ h1 {
   display: inline;
 }
 
-.counter-wrapper button:active {
+.counter-wrapper>button:hover {
   border: none;
 }
+.counter-wrapper>button:focus,
+.counter-wrapper>button:focus-visible{
+  outline: none;
+  border: none;
+}
+
 
 .counter-wrapper input {
   width: 100%;

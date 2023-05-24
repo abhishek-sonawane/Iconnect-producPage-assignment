@@ -12,14 +12,6 @@ function ProductPage() {
   const [prod, setProd] = useState({});
   const [counter, setCounter] = useState(1);
 
-  const counterChange = (e) => {
-    if (e.target.id == "increment") {
-      setCounter((prev) => prev + 1);
-    }
-    if (e.target.id == "decrement" && counter > 1) {
-      setCounter((prev) => prev - 1);
-    }
-  };
   useEffect(() => {
     const product = data.products.find((item) => item.id == productID);
     if (product != undefined) {
@@ -48,19 +40,17 @@ function ProductPage() {
 
           <div>
             <span className="counter-wrapper">
-              <button onClick={counterChange}>
-                <ImMinus className="counter-btn" id="decrement" />
+              <button id="decrement" onClick={()=>setCounter((prev)=>prev>1?prev-1:prev)}>
+                <ImMinus className="counter-btn"  />
               </button>
               <input
                 disabled
                 id="counter-btn"
                 value={counter}
-                type="text"
-                min="0"
+                type='number'
               />
-              <button onClick={counterChange}>
-                {" "}
-                <ImPlus className="counter-btn" id="increment" />
+              <button id="increment"  onClick={()=>setCounter((prev)=>prev+1)}>
+                <ImPlus className="counter-btn" />
               </button>
             </span>
           </div>
